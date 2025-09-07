@@ -39,6 +39,6 @@ Link leads you to my LinkedIn page
 
 **Austin Smith is my name**
 
-![Image Not Found](clemsontigers.jpg)
+![Image Not Found](images/clemsontigers.jpg)
 
 ![Image Not Found]()
