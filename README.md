@@ -23,3 +23,22 @@ In this assignment, you will practice using basic Linux shell commands and GitHu
 
 
 This project confirms you have setup Git correctly and understand how to turn in all future assignments.
+
+## My Work
+
+[Link](https://www.youtube.com/)
+Link leads to YouTube home page.
+
+[Link](https://www.clemson.edu/canvas/)
+Link leads to the sign in page for Clemson Canvas
+
+[Link](https://www.linkedin.com/in/austintimothysmith/)
+Link leads you to my LinkedIn page
+
+*Oh boy am I feelin' italic*
+
+**Austin Smith is my name**
+
+![Image Not Found](clemsontigers.jpg)
+
+![Image Not Found]()
